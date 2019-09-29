@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chaetheiph.austin-worthington.com/sitemap.xml
